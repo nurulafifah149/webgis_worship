@@ -17,7 +17,7 @@ var marker_2 = [];
 var map;
 var awal = 0;
 var tujuan = 0;
-var server = "http://localhost/bkt_tourism1/";
+var server = "https://webgisnurulafifah-2020.herokuapp.com/";
 var markersReal = []; //HIMPUNAN MARKER
 
 var cekRadiusStatus = "off";
