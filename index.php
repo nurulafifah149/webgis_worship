@@ -773,7 +773,7 @@
                                 <div class="column">
                                   <img class="demo cursor" src="foto/M0012_NURUL HAQ.jpg" style="width:100%" onclick="currentSlide(4)">
                                 </div>
-
+ 
                                 <a class="prev1" onclick="plusSlides(-1)">❮</a>
                                 <a class="next1" onclick="plusSlides(1)">❯</a>
                               </div>
