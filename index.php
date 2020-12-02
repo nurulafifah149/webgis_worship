@@ -745,13 +745,13 @@
                             <div class="container2">
                               <div class="row2" >
                                 <div class="mySlides">
-                                  <a href="" onclick="galeri('M0013')"><img src="foto/M0013_7_masjid raya bkt.jpg" style="width:100%; height: 260px;"><div class="text bg-black">Masjid Raya Bukit Tinggi</div></a>
+                                  <a href="" onclick="galeri('M0013')"><img src="foto/M0013_7_masjid raya bkt.JPG" style="width:100%; height: 260px;"><div class="text bg-black">Masjid Raya Bukit Tinggi</div></a>
                                 </div>
                                 <div class="mySlides">
-                                  <a href="" onclick="galeri('M0001')"><img src="foto/M0001_DARUSSALAM GURUN PANJANG.jpg" style="width:100%; height: 260px;"><div class="text bg-black">Masjid Darussalam Gurun Panjangk</div></a>
+                                  <a href="" onclick="galeri('M0001')"><img src="foto/M0001_DARUSSALAM GURUN PANJANG.JPG" style="width:100%; height: 260px;"><div class="text bg-black">Masjid Darussalam Gurun Panjangk</div></a>
                                 </div>
                                 <div class="mySlides">
-                                  <a href="" onclick="galeri('M0009')"><img src="foto/M0009_RAUDATUL JANNAH.jpg" style="width:100%; height: 260px;"><div class="text bg-black">Masjid Raudatul Jannah</div></a>
+                                  <a href="" onclick="galeri('M0009')"><img src="foto/M0009_RAUDATUL JANNAH.JPG" style="width:100%; height: 260px;"><div class="text bg-black">Masjid Raudatul Jannah</div></a>
                                 </div>
                                 <div class="mySlides">
                                   <a href="" onclick="galeri('M0012')"><img src="foto/M0012_NURUL HAQ.jpg" style="width:100%; height: 260px;"><div class="text bg-black">Masjid Nurul Haq</div></a>
